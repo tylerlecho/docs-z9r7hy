@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-h3iiag.wedang77land.store/sitemap.xml
